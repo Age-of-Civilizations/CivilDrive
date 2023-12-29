@@ -36,7 +36,7 @@ $conn->close();
 $awsS3Credentials = [
     'version' => 'latest',
     'region'  => 'fsn-ger-1',
-    'endpoint' => 'http://localhost:9090',
+    'endpoint' => 'http://localhost:9000',
     'use_path_style_endpoint' => true,
     'credentials' => [
         'key'    => $dbConfig['apiKey'],
