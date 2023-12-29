@@ -11,7 +11,7 @@ Required Dependencies:
 - Composer Nette\Mail
 - An Email Server (Required, or you will need to manually edit database user accounts to "verify" them)
 
-Installation
+## Installation
 
 We're assuming you're running a Debian-Based distro in this guide (Such as Ubuntu) 
 
